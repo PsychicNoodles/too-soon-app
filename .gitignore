@@ -1,4 +1,6 @@
 # Ruby
+.env
+
 *.gem
 *.rbc
 /.config
